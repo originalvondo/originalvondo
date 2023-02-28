@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Web Application Development
 - 🤔 I’m looking for help with Desktop App Development
 - 💬 Ask me about anything related to development
-- 📫 How to reach me: facebook(tanvir.15.02)
+- 📫 How to reach me: Gmail(tanvirulIslam2005@gmail.com)
 - 😄 Pronouns: he/him
 
 <!--
