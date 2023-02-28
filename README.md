@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... Web development
 - 🌱 I’m currently learning ... python
 - 👯 I’m looking to collaborate on ... Web Application Development
 - 🤔 I’m looking for help with ... Desktop App Development
