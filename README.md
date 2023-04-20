@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Network Engineering
 - 🌱 I’m currently learning Cryptography 
 - 👯 I’m looking to collaborate on Web Applications 
-- 🤔 I’m looking for help with Testing WWeb applications 
+- 🤔 I’m looking for help with Testing Web applications 
 - 💬 Ask me about anything related to development
 - 📫 How to reach me: Gmail(tanvirulIslam2005@gmail.com)
 - 😄 Pronouns: he/him
