@@ -1,6 +1,6 @@
 # yo! 👋
 
-I'm Tanvir 😀, a passionate self-taught web developer and game enthusiast with a hunger for learning and a drive to shape digital worlds. With nearly 4 years of programming experience, I've journeyed through various technologies and languages, weaving intricate projects that showcase my dedication and expertise.
+I'm Tanvir 😀, a self-taught web dev, game dev and game enthusiast with a hunger for learning and a drive to shape digital worlds. With a good amount of programming experience, I've journeyed through various technologies and languages, weaving intricate projects that showcase my dedication and expertise.
 
 ## 🌟 What Lights Up My Path:
 
