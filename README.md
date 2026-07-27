@@ -1,1 +1,1 @@
-I'm just a retard atp son 😭💔
+Jack of no trades, master of none
